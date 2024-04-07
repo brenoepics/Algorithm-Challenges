@@ -11,9 +11,9 @@
   
 ## Challenges Table
 
-| Name | Link | Difficulty |
-|------|------|------------|
-| 1. Two Sum | [![Static Badge](https://img.shields.io/badge/LeetCode--Link?style=plastic&logo=leetcode&logoColor=%23FFA116&label=LeetCode&labelColor=%23373737&color=%23373737)](https://leetcode.com/problems/two-sum)  | easy |
+| Name | Link | Difficulty | Resolution |
+|------|------|------------|------------|
+| 1. Two Sum | [![Static Badge](https://img.shields.io/badge/LeetCode--Link?style=plastic&logo=leetcode&logoColor=%23FFA116&label=LeetCode&labelColor=%23373737&color=%23373737)](https://leetcode.com/problems/two-sum)  | easy | [Two Sum Solution](https://leetcode.com/problems/two-sum/solutions/4988795/two-sum)
 | 2. Add Two Numbers | [![Static Badge](https://img.shields.io/badge/LeetCode--Link?style=plastic&logo=leetcode&logoColor=%23FFA116&label=LeetCode&labelColor=%23373737&color=%23373737)](https://leetcode.com/problems/add-two-numbers)  | medium |
 | 4. Median of Two Sorted Arrays | [![Static Badge](https://img.shields.io/badge/LeetCode--Link?style=plastic&logo=leetcode&logoColor=%23FFA116&label=LeetCode&labelColor=%23373737&color=%23373737)](https://leetcode.com/problems/median-of-two-sorted-arrays)  | hard |
 | 5. Longest Palindromic Substring | [![Static Badge](https://img.shields.io/badge/LeetCode--Link?style=plastic&logo=leetcode&logoColor=%23FFA116&label=LeetCode&labelColor=%23373737&color=%23373737)](https://leetcode.com/problems/longest-palindromic-substring)  | medium |
